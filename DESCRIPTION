@@ -1,0 +1,11 @@
+Package: manoeli
+Title: Paying homage to my friend Manoeli
+Version: 0.0.0.9000
+Author: Alessandro Samuel-Rosa
+Maintainer: Alessandro Samuel Rosa <alessandrosamuelrosa@gmail.com>
+Description: An R-package to pay homage to my friend Manoeli.
+Depends:
+    R (>= 3.2.2)
+LazyData: true
+License: file LICENSE
+RoxygenNote: 5.0.1
